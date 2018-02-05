@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns="http://docbook.org/ns/docbook" version="5.0"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <info>
+        <title>Fagaras Mountains</title>
+    </info>
+    <section>
+        <title>Introduction</title>
+        <para>Fagaras mountains, known as Transylvanian Alps, are the highest mountains of the <link
+                xlink:href="https://en.wikipedia.org/wiki/Southern_Carpathians">Southern
+                Carpathians</link>, in Romania. The highest peaks are:<itemizedlist>
+                <listitem>
+                    <para><emphasis role="italic"><link
+                                xlink:href="https://en.wikipedia.org/wiki/Moldoveanu_Peak-broken"
+                                >Moldoveanu</link></emphasis> 2,544 m</para>
+                </listitem>
+                <listitem>
+                    <para><emphasis role="italic"><link
+                                xlink:href="https://en.wikipedia.org/wiki/Negoiu"
+                            >Negoiu</link></emphasis> 2,535 m</para>
+                </listitem>
+            </itemizedlist></para>
+    </section>
+    <section>
+        <title>Mountain Lakes</title>
+        <para>Mountain lakes, or tarns, are truly jewels of nature and they are said to be the
+            pearls of mountains.</para>
+        <section audience="expert" xml:id="caltun">
+            <title>Călţun</title>
+            <para>In a cute cirque in the west-central part. Altitude 2135.</para>
+            <para><inlinemediaobject>
+                    <imageobject>
+                        <imagedata fileref="images/lake.jpeg"/>
+                    </imageobject>
+                </inlinemediaobject></para>
+        </section>
+        <section audience="novice">
+            <title>Bâlea</title>
+            <para>The biggest lake in the Făgăraş Mountains, part of a crowded tourist resort,
+                located in the middle part of the main ridge by the Transfăgărăşan Road. Altitude
+                2030.</para>
+            <para><inlinemediaobject>
+                    <imageobject>
+                        <imagedata
+                            fileref="file:/C:/Users/alex_jitianu/Downloads/balea-lac-1747851_640.jpg"
+                            scale="50"/>
+                    </imageobject>
+                </inlinemediaobject></para>
+            <para>If you visit it, go see <link linkend="caltun">Lake Caltun</link> as well.</para>
+        </section>
+    </section>
+</article>
