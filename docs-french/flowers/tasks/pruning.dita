@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="prunning">
+    <title>Taille</title>
+    <taskbody>
+        <context>
+            <p><b>L'élagage</b> est le processus consistant à enlever certains éléments de surface
+                d'une plante; dans l'aménagement paysager, ce processus implique généralement
+                l'enlèvement de parties malades, non productives ou autrement indésirables d'une
+                plante. </p>
+            <p>In general the smaller the wound (smaller the branch that is cut) the less harm to
+                the tree. It is therefore typically better to formative prune the tree when juvenile
+                than try to cut off large branches on a mature tree.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Commencez par découper toutes les branches mortes.</cmd>
+            </step>
+            <step>
+                <cmd>Enlevez toutes les branches emmêlées ou croisées. Cela permet à l'air de
+                    circuler et réduit l'infestation par les insectes et les champignons. </cmd>
+            </step>
+            <step>
+                <cmd>Prends ton temps! Travaillez confortablement et ne faites pas de raccourcis
+                    lorsque vous coupez des tiges. Utilisez de bonne qualité, des outils
+                    pointus.</cmd>
+            </step>
+            <step>
+                <cmd>Nettoyer la zone. . </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

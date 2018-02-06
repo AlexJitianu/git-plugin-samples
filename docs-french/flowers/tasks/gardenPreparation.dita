@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="gardenPreparation">
+    <title>Préparation du jardin</title>
+    <taskbody>
+        <context>
+            <p> Une appréciation des conditions dans lesquelles les bulbes poussent dans la nature
+                est d'une aide considérable pour comprendre leurs besoins en culture</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Manipulez les ampoules avec soin. Toute ampoule cicatrisée ou perforée est plus
+                    sensible à la pourriture ou à l'infestation.</cmd>
+            </step>
+            <step>
+                <cmd>Assurez-vous que le sol est le bon.</cmd>
+            </step>
+            <step>
+                <cmd>Toutes les plantes ont besoin d'arrosage, mais vous devez également fournir un
+                    bon drainage.</cmd>
+            </step>
+            <step>
+                <cmd>Les plantes réagissent aux sols fertiles, mais les engrais ne doivent pas être
+                    utilisés sans précaution.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
