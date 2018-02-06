@@ -68,9 +68,9 @@
       <!-- apply template rules to this element -->
       <x:context>
          <phrases>
-            <phrase>Hello!1</phrase>
-            <phrase>Goodbye!1</phrase>
-            <phrase>(So long!1)</phrase>
+            <phrase>Hello!</phrase>
+            <phrase>Goodbye!</phrase>
+            <phrase>(So long!)</phrase>
          </phrases>
       </x:context>
       <!-- check the result -->
@@ -82,16 +82,6 @@
             <phrase status="same">Goodbye!</phrase>
             <phrase status="changed">\(So long!\)</phrase>
             </phrases>
-      </x:expect>
-   </x:scenario>
-   
-   <x:scenario label="test">
-      <x:context>
-         <CAPS attr="ceva&quot;">CAPS&amp;</CAPS>
-      </x:context>
-      <x:expect 
-         label="identity result">
-         <Caps attr="ceva&#34;">CAPS</Caps>
       </x:expect>
    </x:scenario>
 

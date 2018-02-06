@@ -44,9 +44,5 @@
             <xsl:value-of select="functx:escape-for-regex(.)"/>
         </phrase>
     </xsl:template>
-    
-    <xsl:template match="*:CAPS">
-        <xsl:copy-of select="."></xsl:copy-of>
-    </xsl:template>
 
 </xsl:stylesheet>
