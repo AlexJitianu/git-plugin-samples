@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project version="20.0">
+<project version="19.1">
     <meta>
         <filters directoryPatterns="" filePatterns="git-plugin-samples.xpr" positiveFilePatterns="" showHiddenFiles="false"/>
         <options/>
